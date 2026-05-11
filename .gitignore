@@ -3,3 +3,5 @@
 *.pt
 
 yolov8n.pt
+
+*.env
